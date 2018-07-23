@@ -1,0 +1,49 @@
+{
+	"folders": [
+		{
+			"path": "/home/oberstet/scm"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.ipp": "cpp",
+			"cctype": "cpp",
+			"cstddef": "cpp",
+			"cstdlib": "cpp",
+			"cstring": "cpp",
+			"ctime": "cpp",
+			"cwctype": "cpp",
+			"array": "cpp",
+			"atomic": "cpp",
+			"*.tcc": "cpp",
+			"chrono": "cpp",
+			"condition_variable": "cpp",
+			"cstdint": "cpp",
+			"exception": "cpp",
+			"functional": "cpp",
+			"future": "cpp",
+			"initializer_list": "cpp",
+			"iosfwd": "cpp",
+			"limits": "cpp",
+			"mutex": "cpp",
+			"new": "cpp",
+			"ratio": "cpp",
+			"stdexcept": "cpp",
+			"system_error": "cpp",
+			"thread": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"typeinfo": "cpp",
+			"utility": "cpp",
+			"codecvt": "cpp",
+			"__config": "cpp",
+			"slist": "cpp",
+			"clocale": "cpp",
+			"cmath": "cpp",
+			"csignal": "cpp",
+			"cstdarg": "cpp",
+			"cstdio": "cpp",
+			"cwchar": "cpp"
+		}
+	}
+}
